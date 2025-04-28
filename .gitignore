@@ -1,0 +1,18 @@
+#logging
+arduino_log0.csv
+data.csv
+test.csv
+
+#example data
+# arduino_log.csv
+# encoder.csv
+
+#old code
+bruh.py
+chipencoder.py
+r2.py
+encoder.py
+hand.py
+
+
+__pycache__
